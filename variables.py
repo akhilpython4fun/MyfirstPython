@@ -1,0 +1,14 @@
+a=10
+b=15
+c=a+b
+print(c"")
+d=17
+e=d-a
+print(e)
+f=b/3
+g=f*7
+print(f)
+print(g)
+print(f+g)
+print(19+g)
+print(a+g)
